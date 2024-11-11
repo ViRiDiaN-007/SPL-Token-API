@@ -10,13 +10,14 @@ A simple API for interacting with SPL tokens on the Solana blockchain. This API 
 ## Requirements
 
 - Node.js (version 14 or higher)
+- https://nodejs.org/en/download/prebuilt-installer
 
 ## Installation
 
 Clone the repository and install dependencies:
-`git clone git@github.com:ViRiDiaN-007/SPL-Token-API.git`
-`cd SPL-Token-API`
-`npm install`
+- `git clone git@github.com:ViRiDiaN-007/SPL-Token-API.git`
+- `cd SPL-Token-API`
+- `npm install`
 
 ## Usage
 

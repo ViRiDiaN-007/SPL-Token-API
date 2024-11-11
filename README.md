@@ -20,4 +20,6 @@ Clone the repository and install dependencies:
 
 ## Usage
 
-Set your RPC endpoint and wallet priv key in config.ini
+- Set your RPC endpoint and wallet priv key in config.ini
+- open the /api/api folder
+- `node index.js`

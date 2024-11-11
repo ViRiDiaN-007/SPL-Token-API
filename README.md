@@ -14,10 +14,9 @@ A simple API for interacting with SPL tokens on the Solana blockchain. This API 
 ## Installation
 
 Clone the repository and install dependencies:
-
-git clone git@github.com:ViRiDiaN-007/SPL-Token-API.git
+`git clone git@github.com:ViRiDiaN-007/SPL-Token-API.git
 cd SPL-Token-API
-npm install
+npm install`
 
 ## Usage
 
